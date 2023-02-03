@@ -1,0 +1,38 @@
+[
+    {
+     "id": "@rootcoder EPG",
+     "url": "https://github.com/rootcoder/epgtv/raw/main/guide.xml.gz",
+     "map": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels_br.map",
+     "channelUrl": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels.xml"
+    },
+    {
+     "id": "@systemof EPG",
+     "url": "https://github.com/systemof/EPG/raw/master/guide.xml.gz",
+     "map": "https://raw.githubusercontent.com/HisiELEC/epg/main/systemof/channels_br.map",
+     "channelUrl": "https://raw.githubusercontent.com/HisiELEC/epg/main/systemof/channels.xml"
+    },
+    {
+      "id": "@garryalexander EPG",
+      "url": "https://github.com/garryalexander/tmp/raw/main/xmltv.xml.gz",
+      "channelUrl": "https://raw.githubusercontent.com/HisiELEC/epg/main/garryalexander/channels.xml",
+      "map": [
+        {
+            "id": "Canais BR",
+            "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/garryalexander/channels_br.map"
+        },
+        {
+          "id": "Canais BR/RJ",
+          "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/garryalexander/channels_rj.map"
+        },
+        {
+         "id": "Canais BR/SP",
+         "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/garryalexander/channels_sp.map"
+        },
+        {
+         "id": "Canais BR/RS",
+         "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/garryalexander/channels_rs.map"
+        }
+        
+       ]
+     }
+ ]
