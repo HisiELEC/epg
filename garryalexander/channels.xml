@@ -1008,6 +1008,18 @@
  <channel id="131623">
   <display-name>SporTV 2 4K</display-name>
  </channel>
+ <channel id="133355">
+  <display-name>Paramount+ 2</display-name>
+ </channel>
+ <channel id="133359">
+  <display-name>Paramount+ 3</display-name>
+ </channel>
+ <channel id="133360">
+  <display-name>Paramount+ 4</display-name>
+ </channel>
+ <channel id="134150">
+  <display-name>Paramount+</display-name>
+ </channel>
  <channel id="15361">
   <display-name>HBO</display-name>
  </channel>
@@ -1782,6 +1794,9 @@
  <channel id="77914">
   <display-name>CineBrasil TV</display-name>
  </channel>
+ <channel id="77957">
+  <display-name>TV Tarobá</display-name>
+ </channel>
  <channel id="78047">
   <display-name>TV Mar Alagoas</display-name>
  </channel>
@@ -2234,5 +2249,4 @@
  </channel>
  <channel id="99971">
   <display-name>TV Assembleia de Minas Gerais</display-name>
- </channel>
- </tv>
+ </channel></tv>
