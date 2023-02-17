@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="FRANCE24">
+  <display-name>France 24</display-name>
+<display-name>France 24 HD</display-name>
+  </channel>
 <channel id="SHOPTIME">
   <display-name>Shoptime</display-name>
   </channel>
@@ -601,5 +605,23 @@
   </channel>
 <channel id="EMPREENDER">
   <display-name>Empreender HD</display-name>
+  </channel>
+<channel id="GLOBORJ">
+  <display-name>Globo Rio</display-name>
+  </channel>
+<channel id="GLOBOSP">
+  <display-name>Globo SP</display-name>
+  </channel>
+<channel id="PARAMOUNTPLUS1">
+  <display-name>Paramount+</display-name>
+  </channel>
+<channel id="PARAMOUNTPLUS2">
+  <display-name>Paramount+ 2</display-name>
+  </channel>
+<channel id="PARAMOUNTPLUS3">
+  <display-name>Paramount+ 3</display-name>
+  </channel>
+<channel id="PARAMOUNTPLUS4">
+  <display-name>Paramount+ 4</display-name>
   </channel>
 </tv>
