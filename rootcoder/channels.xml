@@ -1,627 +1,639 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="FRANCE24">
-  <display-name>France 24</display-name>
-<display-name>France 24 HD</display-name>
-  </channel>
-<channel id="SHOPTIME">
-  <display-name>Shoptime</display-name>
-  </channel>
-<channel id="CGTN">
-  <display-name>CGTN</display-name>
-  </channel>
-<channel id="HBO">
-  <display-name>HBO HD</display-name>
-<display-name>HBO</display-name>
-  </channel>
-<channel id="AMC">
-  <display-name>AMC HD</display-name>
-  </channel>
-<channel id="CANALBRASIL">
-  <display-name>Canal Brasil</display-name>
-<display-name>Canal Brasil HD</display-name>
-  </channel>
-<channel id="CINEMAX">
-  <display-name>Cinemax HD</display-name>
-<display-name>Cinemax</display-name>
-  </channel>
-<channel id="HBO2">
-  <display-name>HBO2 HD</display-name>
-<display-name>HBO2</display-name>
-  </channel>
-<channel id="HBOPLUS">
-  <display-name>HBO Plus HD</display-name>
-<display-name>HBO+</display-name>
-<display-name>HBO Plus</display-name>
-<display-name>HBO+ HD</display-name>
-  </channel>
-<channel id="HBOFAMILY">
-  <display-name>HBO Family</display-name>
-<display-name>HBO Family HD</display-name>
-  </channel>
-<channel id="HBOSIGNATURE">
-  <display-name>HBO Signature HD</display-name>
-<display-name>HBO Signature</display-name>
-  </channel>
-<channel id="HBOMUNDI">
-  <display-name>HBO MUNDI HD</display-name>
-<display-name>HBO Mundi</display-name>
-  </channel>
-<channel id="HBOXTREME">
-  <display-name>HBO XTREME HD</display-name>
-<display-name>HBO XTREME</display-name>
-  </channel>
-<channel id="HBOPOP">
-  <display-name>HBO POP HD</display-name>
-<display-name>HBO POP</display-name>
-  </channel>
-<channel id="MEGAPIX">
-  <display-name>Megapix HD</display-name>
-<display-name>Megapix</display-name>
-  </channel>
-<channel id="PARAMOUNTNETWORK">
-  <display-name>Paramount Network HD</display-name>
-<display-name>Paramount Network</display-name>
-  </channel>
-<channel id="SPACE">
-  <display-name>Space HD</display-name>
-<display-name>Space</display-name>
-  </channel>
-<channel id="TCM">
-  <display-name>TCM</display-name>
-  </channel>
-<channel id="TELECINEPREMIUM">
-  <display-name>Telecine Premium HD</display-name>
-<display-name>Telecine Premium</display-name>
-  </channel>
-<channel id="TELECINEACTION">
-  <display-name>Telecine Action</display-name>
-<display-name>Telecine Action HD</display-name>
-  </channel>
-<channel id="TELECINECULT">
-  <display-name>Telecine Cult</display-name>
-<display-name>Telecine Cult HD</display-name>
-  </channel>
-<channel id="TELECINEFUN">
-  <display-name>Telecine Fun</display-name>
-<display-name>Telecine Fun HD</display-name>
-  </channel>
-<channel id="TELECINEPIPOCA">
-  <display-name>Telecine Pipoca</display-name>
-<display-name>Telecine Pipoca HD</display-name>
-  </channel>
-<channel id="TELECINETOUCH">
-  <display-name>Telecine Touch</display-name>
-<display-name>Telecine Touch HD</display-name>
-  </channel>
-<channel id="TNT">
-  <display-name>TNT HD</display-name>
-<display-name>TNT</display-name>
-  </channel>
-<channel id="FX">
-  <display-name>FX HD</display-name>
-<display-name>FX</display-name>
-  </channel>
-<channel id="STUDIOUNIVERSAL">
-  <display-name>Studio Universal HD</display-name>
-<display-name>Studio Universal</display-name>
-  </channel>
-<channel id="AE">
-  <display-name>A&amp;E HD</display-name>
-<display-name>A&amp;E</display-name>
-  </channel>
-<channel id="AXN">
-  <display-name>AXN HD</display-name>
-<display-name>AXN</display-name>
-  </channel>
-<channel id="EUROCHANNEL">
-  <display-name>Eurochannel HD</display-name>
-  </channel>
-<channel id="FILMARTS">
-  <display-name>Film&amp;Arts HD</display-name>
-<display-name>Film&amp;Arts</display-name>
-  </channel>
-<channel id="STARCHANNEL">
-  <display-name>STAR CHANNEL</display-name>
-<display-name>STAR CHANNEL HD</display-name>
-  </channel>
-<channel id="CINECANAL">
-  <display-name>cinecanal hd</display-name>
-<display-name>cinecanal</display-name>
-  </channel>
-<channel id="ID">
-  <display-name>ID HD</display-name>
-<display-name>ID</display-name>
-  </channel>
-<channel id="LIFETIME">
-  <display-name>Lifetime HD</display-name>
-  </channel>
-<channel id="CANALSONY">
-  <display-name>Canal Sony HD</display-name>
-<display-name>Canal Sony</display-name>
-  </channel>
-<channel id="SYFY">
-  <display-name>SYFY HD</display-name>
-<display-name>SYFY</display-name>
-  </channel>
-<channel id="TBS">
-  <display-name>TBS HD</display-name>
-<display-name>TBS</display-name>
-  </channel>
-<channel id="TNTSERIES">
-  <display-name>TNT Séries HD</display-name>
-  </channel>
-<channel id="UNIVERSALTV">
-  <display-name>Universal TV HD</display-name>
-<display-name>Universal TV</display-name>
-  </channel>
-<channel id="WARNERCHANNEL">
-  <display-name>Warner Channel HD</display-name>
-<display-name>Warner Channel</display-name>
-  </channel>
-<channel id="MODOVIAGEM">
-  <display-name>Modo Viagem</display-name>
-<display-name>Modo Viagem HD</display-name>
-  </channel>
-<channel id="FOODNETWORK">
-  <display-name>Food Network HD</display-name>
-<display-name>Food Network</display-name>
-  </channel>
-<channel id="BANDSPORTS">
-  <display-name>Band Sports</display-name>
-<display-name> Band Sports HD</display-name>
-  </channel>
-<channel id="COMBATE">
-  <display-name>Combate HD</display-name>
-<display-name>Combate</display-name>
-  </channel>
-<channel id="ESPN">
-  <display-name>ESPN</display-name>
-<display-name>ESPN HD</display-name>
-  </channel>
-<channel id="ESPNEXTRA">
-  <display-name>ESPN Extra HD</display-name>
-  </channel>
-<channel id="ESPN2">
-  <display-name>ESPN 2</display-name>
-<display-name>ESPN 2 HD</display-name>
-  </channel>
-<channel id="ESPN3">
-  <display-name>ESPN 3 HD</display-name>
-  </channel>
-<channel id="ESPN4">
-  <display-name>ESPN 4</display-name>
-<display-name> ESPN 4 HD</display-name>
-  </channel>
-<channel id="FOXSPORTS2">
-  <display-name>FOX Sports 2 HD</display-name>
-<display-name>FOX Sports 2</display-name>
-  </channel>
-<channel id="OFF">
-  <display-name>OFF HD</display-name>
-<display-name>OFF</display-name>
-  </channel>
-<channel id="PREMIERECLUBES">
-  <display-name>Premiere Clubes</display-name>
-<display-name>Premiere Clubes HD</display-name>
-  </channel>
-<channel id="PREMIERE2">
-  <display-name>Premiere 2</display-name>
-<display-name>Premiere 2 HD</display-name>
-  </channel>
-<channel id="PREMIERE3">
-  <display-name>Premiere 3</display-name>
-<display-name>Premiere 3 HD</display-name>
-  </channel>
-<channel id="PREMIERE4">
-  <display-name>Premiere 4</display-name>
-<display-name>Premiere 4 HD</display-name>
-  </channel>
-<channel id="PREMIERE5">
-  <display-name>Premiere 5</display-name>
-<display-name>Premiere 5 HD</display-name>
-  </channel>
-<channel id="PREMIERE6">
-  <display-name>Premiere 6</display-name>
-<display-name>Premiere 6 HD</display-name>
-  </channel>
-<channel id="PREMIERE7">
-  <display-name>Premiere 7</display-name>
-<display-name>Premiere 7 HD</display-name>
-  </channel>
-<channel id="PREMIERE8">
-  <display-name>Premiere 8</display-name>
-<display-name>Premiere 8 HD</display-name>
-  </channel>
-<channel id="SPORTV">
-  <display-name>SporTV HD</display-name>
-<display-name>SporTV</display-name>
-  </channel>
-<channel id="SPORTV2">
-  <display-name>SporTV2</display-name>
-<display-name>SporTV2 HD</display-name>
-  </channel>
-<channel id="SPORTV3">
-  <display-name>SporTV3</display-name>
-<display-name>SporTV3 HD</display-name>
-  </channel>
-<channel id="WOOHOO">
-  <display-name>Woohoo</display-name>
-<display-name>Woohoo HD</display-name>
-  </channel>
-<channel id="BABYTV">
-  <display-name>Baby TV</display-name>
-  </channel>
-<channel id="CARTOONITO">
-  <display-name>Cartoonito</display-name>
-<display-name>Cartoonito HD</display-name>
-  </channel>
-<channel id="CARTOONNETWORK">
-  <display-name>Cartoon Network HD</display-name>
-<display-name>Cartoon Network</display-name>
-  </channel>
-<channel id="DISCOVERYKIDS">
-  <display-name>Discovery Kids HD</display-name>
-<display-name>Discovery Kids</display-name>
-  </channel>
-<channel id="DISNEYCHANNEL">
-  <display-name>Disney Channel HD</display-name>
-<display-name>Disney Channel</display-name>
-  </channel>
-<channel id="GLOOB">
-  <display-name>Gloob HD</display-name>
-<display-name>Gloob</display-name>
-  </channel>
-<channel id="GLOOBINHO">
-  <display-name>Gloobinho</display-name>
-<display-name>Gloobinho HD</display-name>
-  </channel>
-<channel id="NATGEOKIDS">
-  <display-name>Nat Geo Kids HD</display-name>
-<display-name>Nat Geo Kids</display-name>
-  </channel>
-<channel id="NICKJR">
-  <display-name>Nick Jr. HD</display-name>
-<display-name>Nick Jr.</display-name>
-  </channel>
-<channel id="NICKELODEON">
-  <display-name>Nickelodeon HD</display-name>
-<display-name>Nickelodeon</display-name>
-  </channel>
-<channel id="DISNEYJR">
-  <display-name>Disney Junior</display-name>
-<display-name>Disney Junior HD</display-name>
-  </channel>
-<channel id="TOONCAST">
-  <display-name>Tooncast</display-name>
-  </channel>
-<channel id="TVRTIMBUM">
-  <display-name>TV Rá Tim Bum HD</display-name>
-<display-name>TV Rá Tim Bum</display-name>
-  </channel>
-<channel id="ZOOMOO">
-  <display-name>Zoomoo HD</display-name>
-<display-name>Zoomoo</display-name>
-  </channel>
-<channel id="ARTE1">
-  <display-name>Arte 1 HD</display-name>
-<display-name>Arte 1</display-name>
-  </channel>
-<channel id="BIS">
-  <display-name>BIS HD</display-name>
-<display-name>BIS</display-name>
-  </channel>
-<channel id="COMEDYCENTRAL">
-  <display-name>Comedy Central HD</display-name>
-<display-name>Comedy Central</display-name>
-  </channel>
-<channel id="E">
-  <display-name>E! HD</display-name>
-<display-name>E!</display-name>
-  </channel>
-<channel id="FISHTV">
-  <display-name>Fish TV</display-name>
-<display-name>Fish TV HD</display-name>
-  </channel>
-<channel id="FUTURA">
-  <display-name>Futura HD</display-name>
-<display-name>Futura</display-name>
-  </channel>
-<channel id="GNT">
-  <display-name>GNT HD</display-name>
-<display-name>GNT</display-name>
-  </channel>
-<channel id="MULTISHOW">
-  <display-name>Multishow HD</display-name>
-<display-name>Multishow</display-name>
-  </channel>
-<channel id="TVCMARA">
-  <display-name>TV Câmara</display-name>
-  </channel>
-<channel id="TVESCOLA">
-  <display-name>TV Escola</display-name>
-  </channel>
-<channel id="TVSENADO">
-  <display-name>TV Senado</display-name>
-  </channel>
-<channel id="TVJUSTIA">
-  <display-name>TV Justiça</display-name>
-  </channel>
-<channel id="VH1">
-  <display-name>VH1</display-name>
-  </channel>
-<channel id="VIVA">
-  <display-name>Viva HD</display-name>
-<display-name>Viva</display-name>
-  </channel>
-<channel id="MTV">
-  <display-name>MTV HD</display-name>
-<display-name>MTV</display-name>
-  </channel>
-<channel id="MTVLIVE">
-  <display-name>MTV LIVE</display-name>
-<display-name>MTV LIVE HD</display-name>
-  </channel>
-<channel id="TVWA">
-  <display-name>TV WA</display-name>
-  </channel>
-<channel id="CURTA">
-  <display-name>Curta! HD</display-name>
-<display-name>Curta!</display-name>
-  </channel>
-<channel id="PRIMEBOXBRAZIL">
-  <display-name>Prime Box Brazil HD</display-name>
-<display-name>Prime Box Brazil</display-name>
-  </channel>
-<channel id="MUSICBOXBRAZIL">
-  <display-name>Music Box Brazil</display-name>
-<display-name>Music Box Brazil HD</display-name>
-  </channel>
-<channel id="TRAVELBOXBRAZIL">
-  <display-name>Travel Box Brazil HD</display-name>
-  </channel>
-<channel id="ANIMALPLANET">
-  <display-name>Animal Planet HD</display-name>
-<display-name>Animal Planet</display-name>
-  </channel>
-<channel id="DISCOVERYCHANNEL">
-  <display-name>Discovery Channel HD</display-name>
-<display-name>Discovery Channel</display-name>
-  </channel>
-<channel id="DISCHOMEHEALTH">
-  <display-name>Disc. Home &amp; Health HD</display-name>
-<display-name>Disc. Home &amp; Health</display-name>
-  </channel>
-<channel id="DISCOVERYSCIENCE">
-  <display-name>Discovery Science HD</display-name>
-<display-name>Discovery Science</display-name>
-  </channel>
-<channel id="DISCOVERYTHEATER">
-  <display-name>Discovery Theater HD</display-name>
-<display-name>Discovery Theater</display-name>
-  </channel>
-<channel id="DISCOVERYTURBO">
-  <display-name>Discovery Turbo HD</display-name>
-<display-name>Discovery Turbo</display-name>
-  </channel>
-<channel id="DISCOVERYWORLD">
-  <display-name>Discovery World HD</display-name>
-<display-name>Discovery World</display-name>
-  </channel>
-<channel id="HISTORY2">
-  <display-name>H2 HD</display-name>
-<display-name>History 2 HD</display-name>
-  </channel>
-<channel id="HGTV">
-  <display-name>HGTV HD</display-name>
-<display-name>HGTV</display-name>
-  </channel>
-<channel id="HISTORY">
-  <display-name>History HD</display-name>
-<display-name>History</display-name>
-  </channel>
-<channel id="NATIONALGEOGRAPHIC">
-  <display-name>National Geographic HD</display-name>
-<display-name>National Geographic</display-name>
-  </channel>
-<channel id="SMITHSONIAN">
-  <display-name>Smithsonian HD</display-name>
-  </channel>
-<channel id="TLC">
-  <display-name>TLC HD</display-name>
-<display-name>TLC</display-name>
-  </channel>
-<channel id="GLOBONEWS">
-  <display-name>GloboNews</display-name>
-<display-name>GloboNews HD</display-name>
-  </channel>
-<channel id="BANDNEWS">
-  <display-name>Band News</display-name>
-<display-name>Band News HD</display-name>
-  </channel>
-<channel id="RECORD">
-  <display-name>RecordTV</display-name>
-<display-name>record tv</display-name>
-<display-name>RECORDTV HD</display-name>
-  </channel>
-<channel id="SBT">
-  <display-name>SBT</display-name>
-<display-name>SBT HD</display-name>
-  </channel>
-<channel id="CNNBRASIL">
-  <display-name>CNN Brasil</display-name>
-<display-name>CNN Brasil HD</display-name>
-  </channel>
-<channel id="GLOBO">
-  <display-name>Globo</display-name>
-<display-name>Globo HD</display-name>
-  </channel>
-<channel id="BAND">
-  <display-name>BAND</display-name>
-<display-name>BAND HD</display-name>
-  </channel>
-<channel id="REDETV">
-  <display-name>RedeTV!</display-name>
-<display-name>RedeTV! HD</display-name>
-  </channel>
-<channel id="REDEVIDA">
-  <display-name>Rede Vida</display-name>
-<display-name>Rede Vida HD</display-name>
-  </channel>
-<channel id="TVBRASIL">
-  <display-name>TV Brasil</display-name>
-<display-name>TV Brasil HD</display-name>
-  </channel>
-<channel id="GAZETA">
-  <display-name>TV Gazeta</display-name>
-<display-name>TV Gazeta HD</display-name>
-  </channel>
-<channel id="SEXTREME">
-  <display-name>Sextreme</display-name>
-  </channel>
-<channel id="SEXYHOT">
-  <display-name>Sexy Hot</display-name>
-<display-name>sexy hot hd</display-name>
-  </channel>
-<channel id="VENUS">
-  <display-name>Venus</display-name>
-  </channel>
-<channel id="PLAYBOYTV">
-  <display-name>Playboy TV HD</display-name>
-<display-name>Playboy TV</display-name>
-  </channel>
-<channel id="TVCULTURA">
-  <display-name>Cultura</display-name>
-<display-name>Cultura HD</display-name>
-  </channel>
-<channel id="FASHIONTV">
-  <display-name>Fashion TV HD</display-name>
-  </channel>
-<channel id="CNT">
-  <display-name>CNT</display-name>
-<display-name>CNT HD</display-name>
-  </channel>
-<channel id="NATGEOWILDHD">
-  <display-name>NatGeo Wild</display-name>
-<display-name>NatGeo Wild HD</display-name>
-  </channel>
-<channel id="JPNEWS">
-  <display-name>JP News</display-name>
-<display-name>JP News HD</display-name>
-  </channel>
-<channel id="RECORDNEWS">
-  <display-name>Record News</display-name>
-<display-name>Record News HD</display-name>
-  </channel>
-<channel id="NHK">
-  <display-name>NHK</display-name>
-  </channel>
-<channel id="RAI">
-  <display-name>RAI</display-name>
-  </channel>
-<channel id="RITTV">
-  <display-name>RIT TV</display-name>
-  </channel>
-<channel id="TVAPARECIDA">
-  <display-name>TV Aparecida</display-name>
-  </channel>
-<channel id="BBC">
-  <display-name>BBC</display-name>
-  </channel>
-<channel id="SICINTERNACIONAL">
-  <display-name>SIC Internacional</display-name>
-  </channel>
-<channel id="TVBRASIL2">
-  <display-name>TV Brasil 2</display-name>
-  </channel>
-<channel id="CNNINTERNATIONAL">
-  <display-name>CNN International</display-name>
-  </channel>
-<channel id="BOAVONTADETV">
-  <display-name>Boa Vontade TV</display-name>
-  </channel>
-<channel id="DWDEUTSCHPLUS">
-  <display-name>DW (Deutsch+)</display-name>
-  </channel>
-<channel id="DOGTV">
-  <display-name>DOG TV</display-name>
-  </channel>
-<channel id="MTV00">
-  <display-name>MTV's 00</display-name>
-  </channel>
-<channel id="TRACEBRAZUCA">
-  <display-name>Trace Brazuca</display-name>
-<display-name>Trace Brazuca HD</display-name>
-  </channel>
-<channel id="POLISHOPTV">
-  <display-name>Polishop TV</display-name>
-  </channel>
-<channel id="TVNOVOTEMPO">
-  <display-name>TV Novo Tempo</display-name>
-<display-name>TV Novo Tempo HD</display-name>
-  </channel>
-<channel id="TVCANONOVA">
-  <display-name>TV Canção Nova</display-name>
-<display-name>TV Canção Nova HD</display-name>
-  </channel>
-<channel id="TVE">
-  <display-name>TVE</display-name>
-  </channel>
-<channel id="BLOOMBERG">
-  <display-name>Bloomberg</display-name>
-  </channel>
-<channel id="SABORARTE">
-  <display-name>Sabor &amp; Arte HD</display-name>
-  </channel>
-<channel id="AGROMAIS">
-  <display-name>AgroMais HD</display-name>
-<display-name>AgroMais</display-name>
-  </channel>
-<channel id="LIKE">
-  <display-name>Like HD</display-name>
-  </channel>
-<channel id="CANALRURAL">
-  <display-name>Canal Rural</display-name>
-<display-name>canal rural hd</display-name>
-  </channel>
-<channel id="BOAVONTADETV">
-  <display-name>Boa Vontade TV</display-name>
-  </channel>
-<channel id="CANALDOBOI">
-  <display-name>Canal do Boi</display-name>
-<display-name>Canal do Boi HD</display-name>
-  </channel>
-<channel id="PAIETERNO">
-  <display-name>Pai Eterno HD</display-name>
-  </channel>
-<channel id="TERRAVIVA">
-  <display-name>Terra Viva</display-name>
-  </channel>
-<channel id="TV5">
-  <display-name>TV5</display-name>
-  </channel>
-<channel id="MARKKET">
-  <display-name>Markket HD</display-name>
-  </channel>
-<channel id="EMPREENDER">
-  <display-name>Empreender HD</display-name>
-  </channel>
+<channel id="BANDSP">
+<display-name>band</display-name>
+<display-name>band hd SP</display-name>
+</channel>
 <channel id="GLOBORJ">
-  <display-name>Globo Rio</display-name>
-  </channel>
+<display-name>globo</display-name>
+<display-name>globo hd RJ</display-name>
+</channel>
 <channel id="GLOBOSP">
-  <display-name>Globo SP</display-name>
-  </channel>
+<display-name>globo sp</display-name>
+<display-name>globo</display-name>
+<display-name>globo hd</display-name>
+</channel>
+<channel id="RECORDRJ">
+<display-name>recordtv</display-name>
+<display-name>recordtv hd</display-name>
+</channel>
+<channel id="RECORDSP">
+<display-name>recordtv</display-name>
+<display-name>record tv</display-name>
+<display-name>recordtv hd</display-name>
+</channel>
+<channel id="SBTSP">
+<display-name>sbt</display-name>
+<display-name>sbt hd</display-name>
+</channel>
+<channel id="SBTRJ">
+<display-name>sbt</display-name>
+<display-name>sbt hd</display-name>
+</channel>
+<channel id="BANDRJ">
+<display-name>band</display-name>
+<display-name>band hd</display-name>
+</channel>
+<channel id="GLOBO">
+<display-name>globo</display-name>
+<display-name>globo hd</display-name>
+</channel>
+<channel id="RECORD">
+<display-name>recordtv</display-name>
+<display-name>recordtv hd</display-name>
+</channel>
+<channel id="SBT">
+<display-name>sbt</display-name>
+<display-name>sbt hd</display-name>
+</channel>
+<channel id="BAND">
+<display-name>band</display-name>
+<display-name>band hd</display-name>
+</channel>
+<channel id="REDETV">
+<display-name>redetv!</display-name>
+<display-name>redetv! hd</display-name>
+</channel>
 <channel id="PARAMOUNTPLUS1">
-  <display-name>Paramount+</display-name>
-  </channel>
+<display-name>Paramount+</display-name>
+</channel>
 <channel id="PARAMOUNTPLUS2">
-  <display-name>Paramount+ 2</display-name>
-  </channel>
+<display-name>Paramount+ 2</display-name>
+</channel>
 <channel id="PARAMOUNTPLUS3">
-  <display-name>Paramount+ 3</display-name>
-  </channel>
+<display-name>Paramount+ 3</display-name>
+</channel>
 <channel id="PARAMOUNTPLUS4">
-  <display-name>Paramount+ 4</display-name>
-  </channel>
+<display-name>Paramount+ 4</display-name>
+</channel>
+<channel id="BBB">
+<display-name>bbb 1</display-name>
+<display-name>bbb hd 1</display-name>
+<display-name> bbb hd 2</display-name>
+<display-name>bbb mosaico hd</display-name>
+</channel>
+<channel id="RITTV">
+<display-name>rit tv</display-name>
+</channel>
+<channel id="CANALEDUCACAO">
+<display-name>canal educação</display-name>
+</channel>
+<channel id="TVCANONOVA">
+<display-name>TV Canção Nova</display-name>
+</channel>
+<channel id="DISCHOMEHEALTH">
+<display-name>Disc. Home &amp; Health HD</display-name>
+<display-name>Disc. Home &amp; Health</display-name>
+</channel>
+<channel id="BBC">
+<display-name>bbc</display-name>
+</channel>
+<channel id="BANDNEWS">
+<display-name>band news</display-name>
+<display-name>band news hd</display-name>
+</channel>
+<channel id="BANDSPORTS">
+<display-name>band sports</display-name>
+<display-name>band sports hd</display-name>
+</channel>
+<channel id="EMPREENDER">
+<display-name>empreender hd</display-name>
+</channel>
+<channel id="MARKKET">
+<display-name>markket hd</display-name>
+</channel>
+<channel id="FASHIONTV">
+<display-name>fashion tv hd</display-name>
+</channel>
+<channel id="FOXSPORTS2">
+<display-name>fox sports 2</display-name>
+<display-name>fox sports 2 hd</display-name>
+</channel>
+<channel id="FRANCE24">
+<display-name>france 24</display-name>
+<display-name>france 24 hd</display-name>
+</channel>
+<channel id="CANALSONY">
+<display-name>canal sony</display-name>
+<display-name>canal sony hd</display-name>
+</channel>
+<channel id="SHOPTIME">
+<display-name>SHOPTIME</display-name>
+</channel>
+<channel id="FILMARTS">
+<display-name>Film&amp;Arts HD</display-name>
+<display-name>Film&amp;Arts</display-name>
+</channel>
+<channel id="GLOBONEWS">
+<display-name>globonews</display-name>
+<display-name>globonews hd</display-name>
+</channel>
+<channel id="PAIETERNO">
+<display-name>pai eterno hd</display-name>
+</channel>
+<channel id="PLAYBOYTV">
+<display-name>playboy tv</display-name>
+<display-name> playboy tv hd</display-name>
+</channel>
+<channel id="POLISHOPTV">
+<display-name>polishop tv</display-name>
+</channel>
+<channel id="RAI">
+<display-name>rai</display-name>
+</channel>
+<channel id="SICINTERNACIONAL">
+<display-name>sic internacional</display-name>
+</channel>
+<channel id="MTV">
+<display-name>mtv</display-name>
+<display-name>mtv hd</display-name>
+</channel>
+<channel id="MTV00">
+<display-name>mtv's 00</display-name>
+</channel>
+<channel id="MUSICBOXBRAZIL">
+<display-name>music box brazil</display-name>
+<display-name>music box brazil hd</display-name>
+</channel>
+<channel id="NHK">
+<display-name>nhk</display-name>
+</channel>
+<channel id="ID">
+<display-name>id</display-name>
+<display-name>id hd</display-name>
+</channel>
+<channel id="JPNEWS">
+<display-name>jp news</display-name>
+<display-name>jp news hd</display-name>
+</channel>
+<channel id="CGTN">
+<display-name>CGTN</display-name>
+</channel>
+<channel id="HBO">
+<display-name>HBO</display-name>
+<display-name>hbo hd</display-name>
+</channel>
+<channel id="TVWA">
+<display-name>tv wa</display-name>
+</channel>
+<channel id="TVE">
+<display-name>tve</display-name>
+</channel>
+<channel id="TV5">
+<display-name>tv5</display-name>
+</channel>
+<channel id="TERRAVIVA">
+<display-name>terra viva</display-name>
+</channel>
+<channel id="ZOOMOO">
+<display-name>zoomoo hd</display-name>
+<display-name>zoomoo</display-name>
+</channel>
+<channel id="AMC">
+<display-name>AMC</display-name>
+<display-name>amc hd</display-name>
+</channel>
+<channel id="SABORARTE">
+<display-name>Sabor &amp; Arte HD</display-name>
+</channel>
+<channel id="SEXTREME">
+<display-name>sextreme</display-name>
+</channel>
+<channel id="TVRTIMBUM">
+<display-name>TV Rá Tim Bum HD</display-name>
+<display-name>TV Rá Tim Bum</display-name>
+</channel>
+<channel id="CANALBRASIL">
+<display-name>canal brasil</display-name>
+<display-name>canal brasil hd</display-name>
+</channel>
+<channel id="CINEMAX">
+<display-name>cinemax</display-name>
+<display-name>cinemax hd</display-name>
+</channel>
+<channel id="HBO2">
+<display-name>HBO2</display-name>
+<display-name>hbo2 hd</display-name>
+<display-name>hbo2</display-name>
+</channel>
+<channel id="HBOPLUS">
+<display-name>hbo plus hd</display-name>
+<display-name>hbo+</display-name>
+<display-name>hbo plus</display-name>
+<display-name>hbo+ hd</display-name>
+</channel>
+<channel id="HBOFAMILY">
+<display-name>hbo family</display-name>
+<display-name>hbo family hd</display-name>
+</channel>
+<channel id="HBOSIGNATURE">
+<display-name>hbo signature hd</display-name>
+<display-name>hbo signature</display-name>
+</channel>
+<channel id="HBOMUNDI">
+<display-name>hbo mundi hd</display-name>
+<display-name>hbo mundi</display-name>
+</channel>
+<channel id="HBOXTREME">
+<display-name>hbo xtreme hd</display-name>
+<display-name>hbo xtreme</display-name>
+</channel>
+<channel id="HBOPOP">
+<display-name>hbo pop hd</display-name>
+<display-name>hbo pop</display-name>
+</channel>
+<channel id="MEGAPIX">
+<display-name>megapix hd</display-name>
+<display-name>megapix</display-name>
+</channel>
+<channel id="PARAMOUNTNETWORK">
+<display-name>paramount network hd</display-name>
+<display-name>paramount network</display-name>
+</channel>
+<channel id="SPACE">
+<display-name>space</display-name>
+<display-name>space hd</display-name>
+</channel>
+<channel id="TCM">
+<display-name>tcm</display-name>
+</channel>
+<channel id="TELECINEPREMIUM">
+<display-name>telecine premium hd</display-name>
+<display-name>telecine premium</display-name>
+</channel>
+<channel id="TELECINEACTION">
+<display-name>telecine action</display-name>
+<display-name>telecine action hd</display-name>
+</channel>
+<channel id="TELECINECULT">
+<display-name>telecine cult</display-name>
+<display-name>telecine cult hd</display-name>
+</channel>
+<channel id="TELECINEFUN">
+<display-name>telecine fun</display-name>
+<display-name>telecine fun hd</display-name>
+</channel>
+<channel id="TELECINEPIPOCA">
+<display-name>telecine pipoca</display-name>
+<display-name>telecine pipoca hd</display-name>
+</channel>
+<channel id="TELECINETOUCH">
+<display-name>telecine touch</display-name>
+<display-name>telecine touch hd</display-name>
+</channel>
+<channel id="TNT">
+<display-name>TNT</display-name>
+<display-name>tnt hd</display-name>
+</channel>
+<channel id="FX">
+<display-name>FX</display-name>
+<display-name>fx hd</display-name>
+</channel>
+<channel id="STUDIOUNIVERSAL">
+<display-name>studio universal hd</display-name>
+<display-name>studio universal</display-name>
+</channel>
+<channel id="AE">
+<display-name>A&amp;E HD</display-name>
+<display-name>A&amp;E</display-name>
+</channel>
+<channel id="AXN">
+<display-name>axn</display-name>
+<display-name>axn hd</display-name>
+</channel>
+<channel id="STARCHANNEL">
+<display-name>star channel</display-name>
+<display-name>star channel hd</display-name>
+</channel>
+<channel id="CINECANAL">
+<display-name>cinecanal hd</display-name>
+<display-name>cinecanal</display-name>
+</channel>
+<channel id="LIFETIME">
+<display-name>lifetime</display-name>
+<display-name>lifetime hd</display-name>
+</channel>
+<channel id="SYFY">
+<display-name>SYFY</display-name>
+<display-name>syfy hd</display-name>
+</channel>
+<channel id="TBS">
+<display-name>TBS</display-name>
+<display-name>tbs hd</display-name>
+</channel>
+<channel id="TNTSERIES">
+<display-name>tnt séries hd</display-name>
+</channel>
+<channel id="UNIVERSALTV">
+<display-name>universal tv hd</display-name>
+<display-name>universal tv</display-name>
+</channel>
+<channel id="WARNERCHANNEL">
+<display-name>warner channel hd</display-name>
+<display-name>warner channel</display-name>
+</channel>
+<channel id="MODOVIAGEM">
+<display-name>modo viagem</display-name>
+<display-name>modo viagem hd</display-name>
+</channel>
+<channel id="FOODNETWORK">
+<display-name>food network hd</display-name>
+<display-name>food network</display-name>
+</channel>
+<channel id="COMBATE">
+<display-name>combate hd</display-name>
+<display-name>combate</display-name>
+</channel>
+<channel id="ESPN">
+<display-name>espn</display-name>
+<display-name>espn hd</display-name>
+</channel>
+<channel id="ESPNEXTRA">
+<display-name>espn extra hd</display-name>
+</channel>
+<channel id="ESPN2">
+<display-name>espn 2</display-name>
+<display-name>espn 2 hd</display-name>
+</channel>
+<channel id="ESPN3">
+<display-name>espn 3 hd</display-name>
+</channel>
+<channel id="ESPN4">
+<display-name>espn 4</display-name>
+<display-name>espn 4 hd</display-name>
+</channel>
+<channel id="OFF">
+<display-name>off hd</display-name>
+<display-name>off</display-name>
+</channel>
+<channel id="PREMIERECLUBES">
+<display-name>premiere clubes</display-name>
+<display-name>premiere clubes hd</display-name>
+</channel>
+<channel id="PREMIERE2">
+<display-name>premiere 2</display-name>
+<display-name>premiere 2 hd</display-name>
+</channel>
+<channel id="PREMIERE3">
+<display-name>premiere 3</display-name>
+<display-name>premiere 3 hd</display-name>
+</channel>
+<channel id="PREMIERE4">
+<display-name>premiere 4</display-name>
+<display-name>premiere 4 hd</display-name>
+</channel>
+<channel id="PREMIERE5">
+<display-name>premiere 5</display-name>
+<display-name>premiere 5 hd</display-name>
+</channel>
+<channel id="PREMIERE6">
+<display-name>premiere 6</display-name>
+<display-name>premiere 6 hd</display-name>
+</channel>
+<channel id="PREMIERE7">
+<display-name>premiere 7</display-name>
+<display-name>premiere 7 hd</display-name>
+</channel>
+<channel id="PREMIERE8">
+<display-name>premiere 8</display-name>
+<display-name>premiere 8 hd</display-name>
+</channel>
+<channel id="SPORTV">
+<display-name>sportv</display-name>
+<display-name>sportv hd</display-name>
+</channel>
+<channel id="SPORTV2">
+<display-name>sportv2</display-name>
+<display-name>sportv2 hd</display-name>
+</channel>
+<channel id="SPORT3">
+<display-name>sportv3</display-name>
+<display-name>sportv3 hd</display-name>
+</channel>
+<channel id="WOOHOO">
+<display-name>woohoo</display-name>
+<display-name>woohoo hd</display-name>
+</channel>
+<channel id="BABYTV">
+<display-name>BABYTV</display-name>
+<display-name>baby tv</display-name>
+</channel>
+<channel id="CARTOONITO">
+<display-name>cartoonito</display-name>
+<display-name>cartoonito hd</display-name>
+</channel>
+<channel id="CARTOONNETWORK">
+<display-name>cartoon network hd</display-name>
+<display-name>cartoon network</display-name>
+</channel>
+<channel id="DISCOVERYKIDS">
+<display-name>discovery kids hd</display-name>
+<display-name>discovery kids</display-name>
+</channel>
+<channel id="DISNEYCHANNEL">
+<display-name>disney channel hd</display-name>
+<display-name>disney channel</display-name>
+</channel>
+<channel id="GLOOB">
+<display-name>GLOOB</display-name>
+<display-name>gloob hd</display-name>
+</channel>
+<channel id="GLOOBINHO">
+<display-name>GLOOBINHO</display-name>
+<display-name>gloobinho hd</display-name>
+</channel>
+<channel id="NICKJR">
+<display-name>nick jr. hd</display-name>
+<display-name>nick jr.</display-name>
+</channel>
+<channel id="NICKELODEON">
+<display-name>NICKELODEON</display-name>
+<display-name>nickelodeon hd</display-name>
+</channel>
+<channel id="TOONCAST">
+<display-name>tooncast</display-name>
+</channel>
+<channel id="ARTE1">
+<display-name>arte1</display-name>
+<display-name>arte 1 hd</display-name>
+<display-name>arte 1</display-name>
+</channel>
+<channel id="BIS">
+<display-name>bis hd</display-name>
+<display-name>bis</display-name>
+</channel>
+<channel id="COMEDYCENTRAL">
+<display-name>comedy central hd</display-name>
+<display-name>comedy central</display-name>
+</channel>
+<channel id="E">
+<display-name>e! hd</display-name>
+<display-name>e!</display-name>
+</channel>
+<channel id="FISHTV">
+<display-name>fish tv</display-name>
+<display-name>fish tv hd</display-name>
+</channel>
+<channel id="FUTURA">
+<display-name>futura</display-name>
+<display-name>futura hd</display-name>
+</channel>
+<channel id="GNT">
+<display-name>GNT</display-name>
+<display-name>gnt hd</display-name>
+</channel>
+<channel id="MULTISHOW">
+<display-name>multishow</display-name>
+<display-name>multishow hd</display-name>
+</channel>
+<channel id="TVCMARA">
+<display-name>tv câmara</display-name>
+</channel>
+<channel id="TVSENADO">
+<display-name>tv senado</display-name>
+</channel>
+<channel id="TVJUSTIA">
+<display-name>tv justiça</display-name>
+</channel>
+<channel id="VIVA">
+<display-name>viva</display-name>
+<display-name>viva hd</display-name>
+</channel>
+<channel id="MTVLIVE">
+<display-name>mtv live</display-name>
+<display-name>mtv live hd</display-name>
+</channel>
+<channel id="CURTA">
+<display-name>curta</display-name>
+<display-name>curta! hd</display-name>
+<display-name>curta!</display-name>
+</channel>
+<channel id="PRIMEBOXBRAZIL">
+<display-name>prime box brazil hd</display-name>
+<display-name>prime box brazil</display-name>
+</channel>
+<channel id="TRAVELBOXBRAZIL">
+<display-name>travel box brazil hd</display-name>
+</channel>
+<channel id="ANIMALPLANET">
+<display-name>animal planet hd</display-name>
+<display-name>animal planet</display-name>
+</channel>
+<channel id="DISCOVERYCHANNEL">
+<display-name>discovery channel hd</display-name>
+<display-name>discovery channel</display-name>
+</channel>
+<channel id="DISCOVERYSCIENCE">
+<display-name>discovery science hd</display-name>
+<display-name>discovery science</display-name>
+</channel>
+<channel id="DISCOVERYTHEATER">
+<display-name>discovery theater hd</display-name>
+<display-name>discovery theater</display-name>
+</channel>
+<channel id="DISCOVERYTURBO">
+<display-name>discovery turbo hd</display-name>
+<display-name>discovery turbo</display-name>
+</channel>
+<channel id="DISCOVERYWORLD">
+<display-name>discovery world hd</display-name>
+<display-name>discovery world</display-name>
+</channel>
+<channel id="HISTORY2">
+<display-name>H2</display-name>
+<display-name>h2 hd</display-name>
+<display-name>history 2 hd</display-name>
+</channel>
+<channel id="HGTV">
+<display-name>hgtv hd</display-name>
+<display-name>hgtv</display-name>
+</channel>
+<channel id="HISTORY">
+<display-name>history hd</display-name>
+<display-name>history</display-name>
+</channel>
+<channel id="NATIONALGEOGRAPHIC">
+<display-name>national geographic hd</display-name>
+<display-name>national geographic</display-name>
+</channel>
+<channel id="TLC">
+<display-name>tlc hd</display-name>
+<display-name>tlc</display-name>
+</channel>
+<channel id="CNNBRASIL">
+<display-name>cnn brasil</display-name>
+<display-name>cnn brasil hd</display-name>
+</channel>
+<channel id="REDEVIDA">
+<display-name>rede vida</display-name>
+<display-name>rede vida hd</display-name>
+</channel>
+<channel id="TVBRASIL">
+<display-name>tv brasil</display-name>
+<display-name>tv brasil hd</display-name>
+</channel>
+<channel id="GAZETA">
+<display-name>tv gazeta</display-name>
+<display-name>tv gazeta hd</display-name>
+</channel>
+<channel id="SEXYHOT">
+<display-name>sexy hot</display-name>
+<display-name>sexy hot hd</display-name>
+</channel>
+<channel id="VENUS">
+<display-name>Venus</display-name>
+</channel>
+<channel id="TVCULTURA">
+<display-name>cultura</display-name>
+<display-name>cultura hd</display-name>
+</channel>
+<channel id="CNT">
+<display-name>cnt</display-name>
+<display-name>cnt hd</display-name>
+</channel>
+<channel id="RECORDNEWS">
+<display-name>record news</display-name>
+<display-name>record news hd</display-name>
+</channel>
+<channel id="TVAPARECIDA">
+<display-name>tv aparecida</display-name>
+</channel>
+<channel id="TVBRASIL2">
+<display-name>tv brasil 2</display-name>
+</channel>
+<channel id="CNNINTERNATIONAL">
+<display-name>cnn international</display-name>
+</channel>
+<channel id="BOAVONTADETV">
+<display-name>boa vontade tv</display-name>
+</channel>
+<channel id="DWDEUTSCHPLUS">
+<display-name>dw (deutsch+)</display-name>
+</channel>
+<channel id="TRACEBRAZUCA">
+<display-name>trace brazuca</display-name>
+<display-name>trace brazuca hd</display-name>
+</channel>
+<channel id="TVNOVOTEMPO">
+<display-name>tv novo tempo</display-name>
+<display-name>tv novo tempo hd</display-name>
+</channel>
+<channel id="TVE">
+<display-name>tve</display-name>
+</channel>
+<channel id="BLOOMBERG">
+<display-name>bloomberg</display-name>
+</channel>
+<channel id="AGROMAIS">
+<display-name>agromais hd</display-name>
+<display-name>agromais</display-name>
+</channel>
+<channel id="CANALRURAL">
+<display-name>canal rural</display-name>
+<display-name> canal rural hd</display-name>
+</channel>
+<channel id="CANALDOBOI">
+<display-name>canal do boi</display-name>
+<display-name>canal do boi hd</display-name>
+</channel>
 </tv>

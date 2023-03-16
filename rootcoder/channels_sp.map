@@ -1,6 +1,6 @@
 # arquivo de mapeamento do Guia RC
 # id_do_canal=nome_do_canal,nom_do_canal2=numero_do_canal
-
+FRANCE24=France 24,France 24 HD
 SHOPTIME=Shoptime
 CGTN=CGTN
 HBO=HBO HD,HBO
@@ -8,7 +8,6 @@ AMC=AMC HD,amc
 CANALBRASIL=Canal Brasil,Canal Brasil HD
 CINEMAX=Cinemax HD,Cinemax
 HBO2=HBO2 HD,HBO2
-FRANCE24=France 24,France 24 HD
 HBOPLUS=HBO Plus HD,HBO+,HBO Plus,HBO+ HD
 HBOFAMILY=HBO Family,HBO Family HD
 HBOSIGNATURE=HBO Signature HD,HBO Signature
@@ -118,7 +117,7 @@ BANDNEWS=Band News,Band News HD
 RECORD=RecordTV,record tv,RECORDTV HD
 SBT=SBT,SBT HD
 CNNBRASIL=CNN Brasil,CNN Brasil HD
-GLOBO=Globo,Globo HD
+GLOBOSP=Globo,Globo HD
 BAND=BAND,BAND HD
 REDETV=RedeTV!,RedeTV! HD
 REDEVIDA=Rede Vida,Rede Vida HD

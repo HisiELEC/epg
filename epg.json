@@ -2,8 +2,21 @@
     {
      "id": "@rootcoder EPG",
      "url": "https://github.com/rootcoder/epgtv/raw/main/guide.xml.gz",
-     "map": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels_br.map",
-     "channelUrl": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels.xml"
+     "channelUrl": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels.xml",
+     "map": [
+        {
+            "id": "Canais BR",
+            "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels_br.map"
+        },
+        {
+          "id": "Canais BR/RJ",
+          "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels_rj.map"
+        },
+        {
+         "id": "Canais BR/SP",
+         "url": "https://raw.githubusercontent.com/HisiELEC/epg/main/rootcoder/channels_sp.map"
+        }
+       ]
     },
     {
      "id": "@systemof EPG",
