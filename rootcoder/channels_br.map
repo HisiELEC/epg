@@ -1,6 +1,7 @@
 # arquivo de mapeamento do Guia RC
 # id_do_canal=nome_do_canal,nom_do_canal2=numero_do_canal
 
+EUROCHANNELHD=Eurochannel HD
 SHOPTIME=Shoptime
 CGTN=CGTN
 HBO=HBO HD,HBO

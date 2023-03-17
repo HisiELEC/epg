@@ -313,6 +313,9 @@
 <display-name>lifetime</display-name>
 <display-name>lifetime hd</display-name>
 </channel>
+<channel id="EUROCHANNELHD">
+<display-name>Eurochannel HD</display-name>
+</channel>
 <channel id="SYFY">
 <display-name>SYFY</display-name>
 <display-name>syfy hd</display-name>
@@ -406,7 +409,7 @@
 <display-name>sportv2</display-name>
 <display-name>sportv2 hd</display-name>
 </channel>
-<channel id="SPORT3">
+<channel id="SPORTV3">
 <display-name>sportv3</display-name>
 <display-name>sportv3 hd</display-name>
 </channel>
