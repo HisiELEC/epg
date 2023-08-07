@@ -320,10 +320,6 @@
 <display-name>SYFY</display-name>
 <display-name>syfy hd</display-name>
 </channel>
-<channel id="TBS">
-<display-name>TBS</display-name>
-<display-name>tbs hd</display-name>
-</channel>
 <channel id="TNTSERIES">
 <display-name>tnt séries hd</display-name>
 </channel>
@@ -400,18 +396,6 @@
 <channel id="PREMIERE8">
 <display-name>premiere 8</display-name>
 <display-name>premiere 8 hd</display-name>
-</channel>
-<channel id="SPORTV">
-<display-name>sportv</display-name>
-<display-name>sportv hd</display-name>
-</channel>
-<channel id="SPORTV2">
-<display-name>sportv2</display-name>
-<display-name>sportv2 hd</display-name>
-</channel>
-<channel id="SPORTV3">
-<display-name>sportv3</display-name>
-<display-name>sportv3 hd</display-name>
 </channel>
 <channel id="WOOHOO">
 <display-name>woohoo</display-name>
@@ -638,5 +622,20 @@
 <channel id="CANALDOBOI">
 <display-name>canal do boi</display-name>
 <display-name>canal do boi hd</display-name>
+</channel>
+<channel id="SPORTV">
+<display-name>sportv</display-name>
+<display-name>sportv hd</display-name>
+</channel>
+<channel id="SPORTV2">
+<display-name>sportv2</display-name>
+<display-name>sportv2 hd</display-name>
+</channel>
+<channel id="SPORTV3">
+<display-name>sportv3</display-name>
+<display-name>sportv3 hd</display-name>
+</channel>
+<channel id="TNTNOVELAS">
+<display-name>tnt novelas</display-name>
 </channel>
 </tv>
