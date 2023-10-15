@@ -701,16 +701,16 @@
   <channel id="CANALDOBOI">
     <display-name >Canal do Boi</display-name>
   </channel>
-  <channel id="NOSSOFUTEBOL1">
+  <channel id="NOSSOFUTEBOLPLUS1">
     <display-name >Nosso Futebol 1</display-name>
   </channel>
-   <channel id="NOSSOFUTEBOL2">
+   <channel id="NOSSOFUTEBOLPLUS2">
     <display-name >Nosso Futebol 2</display-name>
   </channel>
-   <channel id="NOSSOFUTEBOL3">
+   <channel id="NOSSOFUTEBOLPLUS3">
     <display-name >Nosso Futebol 3</display-name>
   </channel>
-   <channel id="NOSSOFUTEBOL4">
+   <channel id="NOSSOFUTEBOLPLUS4">
     <display-name >Nosso Futebol 4</display-name>
   </channel>
    <channel id="VENUS">
