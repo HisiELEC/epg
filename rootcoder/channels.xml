@@ -4,6 +4,9 @@
 <display-name>adult swim</display-name>
 <display-name>adult swim hd</display-name>
 </channel>
+<channel id="TRAVELBOXBRAZILHD">
+<display-name>Travel Box Brazil HD</display-name>
+</channel>
 <channel id="ESPN">
 <display-name>espn</display-name>
 <display-name>espn hd</display-name>
