@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="GLOBORJ">
+<display-name>globo</display-name>
+<display-name>globo hd RJ</display-name>
+</channel>
 <channel id="ADULTSWIM">
 <display-name>adult swim</display-name>
-<display-name>adult swim hd</display-name>
 </channel>
 <channel id="TRAVELBOXBRAZILHD">
 <display-name>Travel Box Brazil HD</display-name>
@@ -58,10 +61,6 @@
 <display-name>sbt</display-name>
 <display-name>sbt hd</display-name>
 </channel>
-<channel id="GLOBORJ">
-<display-name>globo</display-name>
-<display-name>globo hd RJ</display-name>
-</channel>
 <channel id="SBTRJ">
 <display-name>sbt</display-name>
 <display-name>sbt hd</display-name>
@@ -75,7 +74,7 @@
 <display-name>record tv</display-name>
 <display-name>recordtv hd</display-name>
 </channel>
-<channel id="GLOBOSP">
+<channel id="GLOBO">
 <display-name>globo sp</display-name>
 <display-name>globo</display-name>
 <display-name>globo hd</display-name>
@@ -428,15 +427,6 @@
 <display-name>record news</display-name>
 <display-name>record news hd</display-name>
 </channel>
-<channel id="PARAMOUNTPLUS2">
-<display-name>Paramount+ 2</display-name>
-</channel>
-<channel id="PARAMOUNTPLUS3">
-<display-name>Paramount+ 3</display-name>
-</channel>
-<channel id="PARAMOUNTPLUS4">
-<display-name>Paramount+ 4</display-name>
-</channel>
 <channel id="TRACEBRAZUCA">
 <display-name>trace brazuca</display-name>
 <display-name>trace brazuca hd</display-name>
@@ -530,6 +520,9 @@
 <display-name>TV Rá Tim Bum HD</display-name>
 <display-name>TV Rá Tim Bum</display-name>
 </channel>
+<channel id="NHK">
+<display-name>NHK</display-name>
+</channel>
 <channel id="SPORTV">
 <display-name>sportv</display-name>
 <display-name>sportv hd</display-name>
@@ -541,5 +534,47 @@
 <channel id="SPORTV3">
 <display-name>sportv3</display-name>
 <display-name>sportv3 hd</display-name>
+</channel>
+<channel id="NOSSOFUTEBOL">
+<display-name>nosso futebol</display-name>
+</channel>
+<channel id="NOSSOFUTEBOLPLUS1">
+<display-name>nosso futebol + 1</display-name>
+</channel>
+<channel id="NOSSOFUTEBOLPLUS2">
+<display-name>nosso futebol + 2</display-name>
+</channel>
+<channel id="NOSSOFUTEBOLPLUS3">
+<display-name>nosso futebol + 3</display-name>
+</channel>
+<channel id="PARAMOUNTPLUS1">
+<display-name>Paramount+ 1</display-name>
+</channel>
+<channel id="PARAMOUNTPLUS2">
+<display-name>Paramount+ 2</display-name>
+</channel>
+<channel id="PARAMOUNTPLUS3">
+<display-name>Paramount+ 3</display-name>
+</channel>
+<channel id="PARAMOUNTPLUS4">
+<display-name>Paramount+ 4</display-name>
+</channel>
+<channel id="FRANCE24">
+<display-name>FRANCE 24 HD</display-name>
+</channel>
+<channel id="COMBATE">
+<display-name>Combate HD</display-name>
+</channel>
+<channel id="TVE">
+<display-name>TVE</display-name>
+</channel>
+<channel id="RAI">
+<display-name>RAI</display-name>
+</channel>
+<channel id="GAZETA">
+<display-name>GAZETA</display-name>
+</channel>
+<channel id="DWDEUTSCHPLUS">
+<display-name>DW Español</display-name>
 </channel>
 </tv>
