@@ -1,6 +1,8 @@
 # arquivo de mapeamento do Guia RC
 # id_do_canal=nome_do_canal,nom_do_canal2=numero_do_canal
 
+DOGTV=DOG TV
+BMCHD=BM&C HD
 NOSSOFUTEBOL=Nosso Futebol HD
 NOSSOFUTEBOLPLUS1=Nosso Futebol + 1
 NOSSOFUTEBOLPLUS2=Nosso Futebol + 2
@@ -52,11 +54,11 @@ FOODNETWORK=Food Network HD,Food Network
 BANDSPORTS=Band Sports, Band Sports HD
 COMBATE=Combate HD,Combate
 ESPN=ESPN,ESPN HD
-ESPNEXTRA=ESPN Extra HD
+ESPNEXTRA=ESPN Extra HD,ESPN 6 HD
 ESPN2=ESPN 2,ESPN 2 HD
 ESPN3=ESPN 3 HD
 ESPN4=ESPN 4, ESPN 4 HD
-FOXSPORTS2=FOX Sports 2 HD,FOX Sports 2
+FOXSPORTS2=FOX Sports 2 HD,FOX Sports 2,ESPN 5,ESPN 5 HD
 OFF=OFF HD,OFF
 PREMIERECLUBES=Premiere Clubes,Premiere Clubes HD
 PREMIERE2=Premiere 2,Premiere 2 HD
