@@ -3,6 +3,9 @@
   <channel id="TERRAVIVA">
     <display-name >Terra Viva</display-name>
     </channel>
+  <channel id="ADULTSWIM">
+    <display-name >Adult Swin</display-name>
+    </channel>
   <channel id="BBB1">
     <display-name >BBB 1 HD</display-name>
   </channel>
@@ -47,6 +50,9 @@
   </channel>
   <channel id="STARCHANNEL">
     <display-name >Star Channel HD</display-name>
+  </channel>
+  <channel id="DWESPAOL">
+    <display-name >DW Espanhol HD</display-name>
   </channel>
   <channel id="FOX">
     <display-name >Star Channel HD</display-name>
@@ -126,10 +132,19 @@
   <channel id="BBBMOSAICO">
     <display-name >BBB Mosaico HD</display-name>
   </channel>
+   <channel id="BMC">
+    <display-name >BMC HD</display-name>
+  </channel>
   <channel id="LIKE">
     <display-name >LIKE</display-name>
   </channel>
   <channel id="ESPN4">
+    <display-name >ESPN 4</display-name>
+  </channel>
+   <channel id="ESPN5">
+    <display-name >ESPN 4</display-name>
+  </channel>
+   <channel id="ESPN6">
     <display-name >ESPN 4</display-name>
   </channel>
   <channel id="SPORTV3">
@@ -262,6 +277,9 @@
   <channel id="SBN">
     <display-name >SonLife Broadcasting Network</display-name>
   </channel>
+  <channel id="CANALDOCRIADOR">
+    <display-name >Canal do Criador HD</display-name>
+  </channel>
   <channel id="TVBRASIL2">
     <display-name >NBR</display-name>
   </channel>
@@ -291,9 +309,6 @@
   </channel>
   <channel id="GLOBORECIFE">
     <display-name >Globo Recife</display-name>
-  </channel>
-  <channel id="REDERECORD">
-    <display-name >Record TV</display-name>
   </channel>
   <channel id="SBT">
     <display-name >SBT</display-name>
@@ -514,6 +529,9 @@
   <channel id="IDEALTV">
     <display-name >Ideal TV</display-name>
   </channel>
+  <channel id="GOSPELTV">
+    <display-name >Gospel TV</display-name>
+  </channel>
   <channel id="LIV">
     <display-name >Investigação Discovery</display-name>
   </channel>
@@ -563,6 +581,9 @@
   <channel id="MTVLIVEHD">
     <display-name >MTV Live HD</display-name>
   </channel>
+  <channel id="LIVETV">
+    <display-name >Live TV</display-name>
+  </channel>
   <channel id="OFFHD">
     <display-name >Off HD</display-name>
   </channel>
@@ -587,7 +608,7 @@
   <channel id="RBA TV HD">
     <display-name >RBA TV HD</display-name>
   </channel>
-  <channel id="REDERECORDHD">
+  <channel id="RECORDTV">
     <display-name >Record TV HD</display-name>
   </channel>
   <channel id="REDEVIDA">
@@ -700,6 +721,9 @@
   </channel>
   <channel id="CANALDOBOI">
     <display-name >Canal do Boi</display-name>
+  </channel>
+  <channel id="NOSSOFUTEBOL">
+    <display-name >Nosso Futebol </display-name>
   </channel>
   <channel id="NOSSOFUTEBOLPLUS1">
     <display-name >Nosso Futebol 1</display-name>
