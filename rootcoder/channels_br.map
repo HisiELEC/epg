@@ -1,6 +1,7 @@
 # arquivo de mapeamento do Guia RC
 # id_do_canal=nome_do_canal,nom_do_canal2=numero_do_canal
 
+LIKEHD=Like HD
 DWDEUTSCHPLUS=DW Español
 DOGTV=DOG TV
 BMCHD=BM&C HD
@@ -87,7 +88,7 @@ NICKELODEON=Nickelodeon HD,Nickelodeon
 DISNEYJR=Disney Junior,Disney Junior HD
 TOONCAST=Tooncast
 TVRTIMBUM=TV Rá Tim Bum HD,TV Rá Tim Bum
-ZOOMOO=Zoomoo HD,Zoomoo
+ZOOMOO=Zoomoo HD,Zoomoo,Zoomoo Kids HD, Zoomoo Kids
 ARTE1=Arte 1 HD,Arte 1
 BIS=BIS HD,BIS
 COMEDYCENTRAL=Comedy Central HD,Comedy Central

@@ -503,6 +503,11 @@
 <channel id="ZOOMOO">
 <display-name>zoomoo hd</display-name>
 <display-name>zoomoo</display-name>
+<display-name>Zoomoo Kids</display-name>
+<display-name>Zoomoo Kids HD</display-name>
+</channel>
+<channel id="LIKEHD">
+<display-name>Like hd</display-name>
 </channel>
 <channel id="CURTA">
 <display-name>curta</display-name>
