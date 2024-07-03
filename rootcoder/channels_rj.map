@@ -1,6 +1,7 @@
 # arquivo de mapeamento do Guia RC
 # id_do_canal=nome_do_canal,nom_do_canal2=numero_do_canal
 
+TRIPBRASIL=TBC - Trip Brasil Channel HD
 LIKEHD=Like HD
 DWDEUTSCHPLUS=DW Español
 DOGTV=DOG TV
@@ -56,11 +57,11 @@ FOODNETWORK=Food Network HD,Food Network
 BANDSPORTS=Band Sports, Band Sports HD
 COMBATE=Combate HD,Combate
 ESPN=ESPN,ESPN HD
-ESPNEXTRA=ESPN Extra HD,ESPN 6 HD
+ESPN6=ESPN 6 HD,ESPN 6
 ESPN2=ESPN 2,ESPN 2 HD
 ESPN3=ESPN 3 HD
 ESPN4=ESPN 4, ESPN 4 HD
-FOXSPORTS2=FOX Sports 2 HD,FOX Sports 2,ESPN 5,ESPN 5 HD
+ESPN5=ESPN 5,ESPN 5 HD
 OFF=OFF HD,OFF
 PREMIERECLUBES=Premiere Clubes,Premiere Clubes HD
 PREMIERE2=Premiere 2,Premiere 2 HD
