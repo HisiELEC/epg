@@ -180,8 +180,9 @@
 <display-name>sexy hot</display-name>
 <display-name>sexy hot hd</display-name>
 </channel>
-<channel id="ESPNEXTRA">
-<display-name>espn extra hd</display-name>
+<channel id="ESPN6">
+<display-name>espn 5</display-name>
+<display-name>espn 5 hd</display-name>
 </channel>
 <channel id="DISCOVERYKIDS">
 <display-name>discovery kids hd</display-name>
@@ -198,9 +199,9 @@
 <display-name>espn 4</display-name>
 <display-name>espn 4 hd</display-name>
 </channel>
-<channel id="FOXSPORTS2">
-<display-name>fox sports 2</display-name>
-<display-name>fox sports 2 hd</display-name>
+<channel id="ESPN5">
+<display-name>espn 6</display-name>
+<display-name>espn 6 HD</display-name>
 </channel>
 <channel id="HISTORY2">
 <display-name>H2</display-name>
@@ -503,11 +504,8 @@
 <channel id="ZOOMOO">
 <display-name>zoomoo hd</display-name>
 <display-name>zoomoo</display-name>
-<display-name>Zoomoo Kids</display-name>
 <display-name>Zoomoo Kids HD</display-name>
-</channel>
-<channel id="LIKEHD">
-<display-name>Like hd</display-name>
+<display-name>Zoomoo Kids</display-name>
 </channel>
 <channel id="CURTA">
 <display-name>curta</display-name>
@@ -527,6 +525,9 @@
 </channel>
 <channel id="NHK">
 <display-name>NHK</display-name>
+</channel>
+<channel id="SONYMOVIES">
+<display-name>Sony Movies</display-name>
 </channel>
 <channel id="SPORTV">
 <display-name>sportv</display-name>
@@ -553,7 +554,7 @@
 <display-name>nosso futebol + 3</display-name>
 </channel>
 <channel id="PARAMOUNTPLUS1">
-<display-name>Paramount+ 1</display-name>
+<display-name>Paramount+</display-name>
 </channel>
 <channel id="PARAMOUNTPLUS2">
 <display-name>Paramount+ 2</display-name>
@@ -581,5 +582,29 @@
 </channel>
 <channel id="DWDEUTSCHPLUS">
 <display-name>DW Español</display-name>
+</channel>
+<channel id="TV5">
+<display-name>TV5</display-name>
+</channel>
+<channel id="BMCHD">
+<display-name>BMC HD</display-name>
+</channel>
+<channel id="DOGTV">
+<display-name>DOG TV</display-name>
+</channel>
+<channel id="ZOOMOO">
+<display-name>ZOOMOO</display-name>
+</channel>
+<channel id="LIKEHD">
+<display-name>LIKE HD</display-name>
+</channel>
+<channel id="NSPORTSHD">
+<display-name>NSPORTS HD</display-name>
+</channel>
+<channel id="TRIPBRASIL">
+<display-name>TBC - Trip Brasil Channel HD</display-name>
+</channel>
+<channel id="EMPREENDER">
+<display-name>Empreender</display-name>
 </channel>
 </tv>
