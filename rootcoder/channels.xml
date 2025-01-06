@@ -30,8 +30,17 @@
 <channel id="5f120f41b7d403000783a6d6">
 <display-name>Pluto TV Filmes Ação</display-name>
 </channel>
-<channel id="61b790b985706b00072cb797">
-<display-name>Pluto TV Adrenalina Freezone</display-name>
+<channel id="5f12111c9e6c2c00078ef3bb">
+<display-name>Pluto TV Cine Terror</display-name>
+</channel>
+<channel id="5f171d3442a0500007362f22">
+<display-name>Filmes Suspense</display-name>
+</channel>
+<channel id="5fa15ad6367e170007cdd098">
+<display-name>Pluto TV Ficção Científica</display-name>
+</channel>
+<channel id="6479ff764f5ba5000878dfe2">
+<display-name>Pluto TV Cine Crime</display-name>
 </channel>
 <channel id="5f12101f0b12f00007844c7c">
 <display-name>Pluto TV Cine Comédia</display-name>
@@ -39,41 +48,56 @@
 <channel id="62545ed3dab4380007582f7c">
 <display-name>Pluto TV Cine Comédia Romântica</display-name>
 </channel>
-<channel id="5f1210d14ae1f80007bafb1d">
-<display-name>Pluto TV Cine Drama</display-name>
-</channel>
-<channel id="633dcebd80386500074a2461">
-<display-name>Pluto TV Filmelier</display-name>
-</channel>
 <channel id="5f171f988ab9780007fa95ea">
 <display-name>Pluto TV Cine Romance</display-name>
 </channel>
-<channel id="5f171d3442a0500007362f22">
-<display-name>Filmes Suspense</display-name>
+<channel id="5f1210d14ae1f80007bafb1d">
+<display-name>Pluto TV Cine Drama</display-name>
 </channel>
-<channel id="6479ff764f5ba5000878dfe2">
-<display-name>Pluto TV Cine Crime</display-name>
-</channel>
-<channel id="5f12111c9e6c2c00078ef3bb">
-<display-name>Pluto TV Cine Terror</display-name>
-</channel>
-<channel id="5fa15ad6367e170007cdd098">
-<display-name>Pluto TV Ficção Científica</display-name>
-</channel>
-<channel id="62c5d32e2c48f9000715b6e9">
-<display-name>Runtime</display-name>
-</channel>
-<channel id="5f5a545d0dbf7f0007c09408">
-<display-name>Pluto TV Filmes Nacionais</display-name>
+<channel id="663b9dc7cb3ea10008f1a0ce">
+<display-name>Pluto TV Bang Bang</display-name>
 </channel>
 <channel id="5fa1612a669ba0000702017b">
 <display-name>Pluto TV Cine Clássicos</display-name>
 </channel>
-<channel id="5fa991b1f09e020007e78626">
-<display-name>Pluto TV Cine Inspiração</display-name>
+<channel id="66aa67493a4ad2000806d91b">
+<display-name>Pluto TV Terror Trash</display-name>
+</channel>
+<channel id="61b790b985706b00072cb797">
+<display-name>Pluto TV Adrenalina Freezone</display-name>
+</channel>
+<channel id="66c79a4262e5510008ff68a5">
+<display-name>Pluto TV Filmes Aventura</display-name>
 </channel>
 <channel id="5f171f032cd22e0007f17f3d">
 <display-name>Pluto TV Cine Família</display-name>
+</channel>
+<channel id="5fa991b1f09e020007e78626">
+<display-name>Pluto TV Cine Inspiração</display-name>
+</channel>
+<channel id="5f5a545d0dbf7f0007c09408">
+<display-name>Pluto TV Filmes Nacionais</display-name>
+</channel>
+<channel id="663b9de4f999220008230fa8">
+<display-name>Pluto TV Netmovies</display-name>
+</channel>
+<channel id="62c5d32e2c48f9000715b6e9">
+<display-name>Runtime</display-name>
+</channel>
+<channel id="633dcebd80386500074a2461">
+<display-name>Filmelier TV</display-name>
+</channel>
+<channel id="5f8a11ce2a4559000782a583">
+<display-name>Pluto TV Cine Natal</display-name>
+</channel>
+<channel id="5f4fc5aeca824d000783d321">
+<display-name>Clima de Natal</display-name>
+</channel>
+<channel id="5f8a12659ab0370008b177f4">
+<display-name>Músicas de Natal</display-name>
+</channel>
+<channel id="66e1e2d515d2c60008e4b690">
+<display-name>MTV Músicas de Natal</display-name>
 </channel>
 <channel id="6474ab5cdc7a760008745008">
 <display-name>Pluto TV Séries Criminais</display-name>
@@ -96,6 +120,9 @@
 <channel id="63d2ba2f60bc8f0008981a0e">
 <display-name>Pluto TV Séries Sci-Fi</display-name>
 </channel>
+<channel id="66b3af48d2d50d00083d6936">
+<display-name>Z Nation</display-name>
+</channel>
 <channel id="65f060d84e01740008d7421f">
 <display-name>Pluto TV Séries Drama</display-name>
 </channel>
@@ -114,11 +141,23 @@
 <channel id="5f1212ad1728050007a523b8">
 <display-name>Pluto TV Retrô</display-name>
 </channel>
+<channel id="631fa8dd7f25240007099a40">
+<display-name>A Feiticeira</display-name>
+</channel>
+<channel id="61f1d27a189ed10007b7393e">
+<display-name>Diff’rent Strokes Arnold</display-name>
+</channel>
 <channel id="63eb9dc84e83e70008abea92">
 <display-name>MacGyver</display-name>
 </channel>
 <channel id="62052d3b4eeb740007fbe125">
 <display-name>O Homem que veio do Céu</display-name>
+</channel>
+<channel id="655e5c4d2c46f3000877a54b">
+<display-name>Pluto TV Desenhos Clássicos</display-name>
+</channel>
+<channel id="5f512365abe1f50007d3ff56">
+<display-name>Pluto TV Novelas</display-name>
 </channel>
 <channel id="645111f1d8436e00081bb2bd">
 <display-name>MTV Drag</display-name>
@@ -146,6 +185,9 @@
 </channel>
 <channel id="6077045b6031bd00078de127">
 <display-name>MasterChef</display-name>
+</channel>
+<channel id="6647c0b91050b60008390de4">
+<display-name>Sony One Shark Tank Brasil</display-name>
 </channel>
 <channel id="5f1213ba0ecebc00070e170f">
 <display-name>Pluto TV Natureza</display-name>
@@ -216,6 +258,9 @@
 <channel id="62310f66d5888f0007534342">
 <display-name>CBS News</display-name>
 </channel>
+<channel id="666c9c60a7efd40008f552f0">
+<display-name>BM&amp;C News</display-name>
+</channel>
 <channel id="619e6614c9d9650007a2b171">
 <display-name>Euronews Português</display-name>
 </channel>
@@ -225,14 +270,14 @@
 <channel id="6317ba014d4d040007227f72">
 <display-name>Jovem Pan NEWS</display-name>
 </channel>
-<channel id="64b9370b409629000802d32b">
-<display-name>Pluto TV Canal UOL</display-name>
-</channel>
 <channel id="645a99282858cb0008ea8378">
 <display-name>NEW Brasil</display-name>
 </channel>
 <channel id="5f32d2db0af67400077f29c4">
 <display-name>Pluto TV Esportes</display-name>
+</channel>
+<channel id="66997e8d3a4ad20008e50be9">
+<display-name>FIFA+</display-name>
 </channel>
 <channel id="63dac28760bc8f0008a7654b">
 <display-name>Realmadrid TV</display-name>
@@ -243,17 +288,20 @@
 <channel id="65a6818c7bdc8d0008457b21">
 <display-name>MAVTV Brasil</display-name>
 </channel>
+<channel id="6660b636cb3ea10008429c6a">
+<display-name>SFT Combat</display-name>
+</channel>
 <channel id="64df7ab4dfa32400083c517b">
 <display-name>DAZN Combat</display-name>
 </channel>
 <channel id="64f6180130ab3300083d896b">
 <display-name>PFL MMA</display-name>
 </channel>
+<channel id="664f766741af640008e59cc9">
+<display-name>Billiard TV</display-name>
+</channel>
 <channel id="63eba66da8b2270008436b10">
 <display-name>World Poker Tour</display-name>
-</channel>
-<channel id="660d7268e8fba80008521de8">
-<display-name>South Park: As Muitas Mortes do Kenny</display-name>
 </channel>
 <channel id="65df71008b24c80008f04281">
 <display-name>South Park: Coleção Cartman</display-name>
@@ -290,6 +338,9 @@
 </channel>
 <channel id="6048fc47a44e540007745d2b">
 <display-name>RedeTV!</display-name>
+</channel>
+<channel id="66a7d0e0cd0d310008448610">
+<display-name>Salon Line</display-name>
 </channel>
 <channel id="5f32d432d612e50007e56133">
 <display-name>Pluto TV Viagens</display-name>
@@ -330,6 +381,9 @@
 <channel id="625464a945b6a200079257d1">
 <display-name>Death Note</display-name>
 </channel>
+<channel id="66c7982f6838ee00085f0d24">
+<display-name>JoJo’s Bizarre Adventure</display-name>
+</channel>
 <channel id="63988c2750108d00072e2686">
 <display-name>Super Onze</display-name>
 </channel>
@@ -342,6 +396,9 @@
 <channel id="633dc392e0282400071b0d39">
 <display-name>Beyblade</display-name>
 </channel>
+<channel id="66b26681d2d50d00083abe8b">
+<display-name>Inuyasha</display-name>
+</channel>
 <channel id="624b1c8d4321e200073ee421">
 <display-name>One Piece</display-name>
 </channel>
@@ -350,6 +407,9 @@
 </channel>
 <channel id="605cc4de7ff3c50007be0f65">
 <display-name>Pluto TV Geek e Tech</display-name>
+</channel>
+<channel id="664df5221dc48600087592b1">
+<display-name>Manual do Mundo</display-name>
 </channel>
 <channel id="64c815e8a1c6130008fef928">
 <display-name>Pluto TV Gaming por Ubisoft</display-name>
@@ -375,9 +435,6 @@
 <channel id="656e28dd57fe4a0008819c3d">
 <display-name>Dora, A Aventureira</display-name>
 </channel>
-<channel id="5f99aad4e82db50007fac4b2">
-<display-name>As  Pistas de Blue</display-name>
-</channel>
 <channel id="63da6bcd60bc8f0008a5d364">
 <display-name>Baby Shark TV</display-name>
 </channel>
@@ -399,11 +456,11 @@
 <channel id="5f12151794c1800007a8ae63">
 <display-name>Nickelodeon Clássico</display-name>
 </channel>
+<channel id="66b4e477d512590008ca6849">
+<display-name>Hey Arnold!</display-name>
+</channel>
 <channel id="61f2c6969fcc3800076ef8af">
 <display-name>Rugrats</display-name>
-</channel>
-<channel id="5f6df6293a12e10007017396">
-<display-name>A vida moderna de Rocko</display-name>
 </channel>
 <channel id="6202a7fcfb1b100008811f54">
 <display-name>Nickelodeon Rocket Power</display-name>
@@ -423,6 +480,9 @@
 <channel id="5f1214a637c6fd00079c652f">
 <display-name>Pluto TV Kids</display-name>
 </channel>
+<channel id="66c8cae7fed35b0008580ec0">
+<display-name>Pluto TV Kids Club</display-name>
+</channel>
 <channel id="63221bafdc6e110007b50270">
 <display-name>Oggy e as Baratas Tontas</display-name>
 </channel>
@@ -432,11 +492,26 @@
 <channel id="5f997e44949bc70007a6941e">
 <display-name>Turma da Mônica</display-name>
 </channel>
+<channel id="66c8ca1280a0af00085b5b83">
+<display-name>Pluto TV Cineminha</display-name>
+</channel>
 <channel id="6047fbdbbb776a0007e7f2ff">
 <display-name>MTV Biggest Pop</display-name>
 </channel>
+<channel id="66a01dcb8561260008b0a41d">
+<display-name>MTV Classic</display-name>
+</channel>
+<channel id="66a01e07d2d50d0008100d6a">
+<display-name>MTV Rocks</display-name>
+</channel>
 <channel id="6047ff2e5e61cf000784e4da">
 <display-name>MTV Spankin' New</display-name>
+</channel>
+<channel id="62b219eed88ef00007403c2c">
+<display-name>MTV Flow Latino</display-name>
+</channel>
+<channel id="66a01d84fe11e500084aefc1">
+<display-name>Yo! MTV</display-name>
 </channel>
 <channel id="604b91e0692f770007d9f33f">
 <display-name>Pluto TV Shows por Stingray</display-name>
@@ -449,9 +524,6 @@
 </channel>
 <channel id="GLOBORJ">
 <display-name>globo rj</display-name>
-</channel>
-<channel id="ADULTSWIM">
-<display-name>adult swim</display-name>
 </channel>
 <channel id="TRAVELBOXBRAZILHD">
 <display-name>Travel Box Brazil HD</display-name>
@@ -611,13 +683,6 @@
 <display-name>globonews</display-name>
 <display-name>globonews hd</display-name>
 </channel>
-<channel id="PLAYBOYTV">
-<display-name>playboy tv</display-name>
-<display-name> playboy tv hd</display-name>
-</channel>
-<channel id="VENUS">
-<display-name>Venus</display-name>
-</channel>
 <channel id="SEXYHOT">
 <display-name>sexy hot</display-name>
 <display-name>sexy hot hd</display-name>
@@ -705,9 +770,6 @@
 <channel id="CNNBRASIL">
 <display-name>cnn brasil</display-name>
 <display-name>cnn brasil hd</display-name>
-</channel>
-<channel id="CNNINTERNATIONAL">
-<display-name>cnn international</display-name>
 </channel>
 <channel id="FOODNETWORK">
 <display-name>food network hd</display-name>
@@ -860,9 +922,6 @@
 <display-name>jp news</display-name>
 <display-name>jp news hd</display-name>
 </channel>
-<channel id="SEXTREME">
-<display-name>sextreme</display-name>
-</channel>
 <channel id="TVAPARECIDA">
 <display-name>tv aparecida</display-name>
 </channel>
@@ -968,8 +1027,22 @@
 <channel id="NHK">
 <display-name>NHK</display-name>
 </channel>
-<channel id="SONYMOVIES">
-<display-name>Sony Movies</display-name>
+<channel id="UOLTV">
+<display-name>Canal UOL HD</display-name>
+</channel>
+<channel id="CNNBRASILMONEY">
+<display-name>CNN Brasil Money HD</display-name>
+</channel>
+<channel id="CNNINTERNATIONAL">
+<display-name>CNN International HD</display-name>
+<display-name>CNN International</display-name>
+</channel>
+<channel id="TIMESCNBC">
+<display-name>TIMES | EXCLUSIVO CNBC</display-name>
+</channel>
+<channel id="TVBRASIL">
+<display-name>tv brasil</display-name>
+<display-name>tv brasil hd</display-name>
 </channel>
 <channel id="SPORTV">
 <display-name>sportv</display-name>
@@ -1054,10 +1127,24 @@
 <display-name>UNIVERSAL PREMIERE HD</display-name>
 </channel>
 <channel id="UNIVERSALREALITY">
-<display-name>UNIVERSAL REALITY</display-name>
+<display-name>UNIVERSAL REALITY HD</display-name>
+</channel>
+<channel id="ADULTSWIM">
+<display-name>adult swim</display-name>
+</channel>
+<channel id="SEXTREME">
+<display-name>sextreme</display-name>
+</channel>
+<channel id="PLAYBOYTV">
+<display-name>playboy tv</display-name>
+<display-name> playboy tv hd</display-name>
+</channel>
+<channel id="VENUS">
+<display-name>Venus</display-name>
 </channel>
 <channel id="EMPREENDER">
 <display-name>Empreender</display-name>
 </channel>
+
 
 </tv>

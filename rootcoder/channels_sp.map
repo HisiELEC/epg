@@ -1,6 +1,9 @@
 # arquivo de mapeamento do Guia RC
 # id_do_canal=nome_do_canal,nom_do_canal2=numero_do_canal
 
+UOLTV=Canal UOL HD
+CNNBRASILMONEY=CNN Brasil Money HD
+TIMESCNBC=TIMES | EXCLUSIVO CNBC
 NSPORTSHD=NSPORTS HD
 UNIVERSALPREMIERE=Universal Premiere HD
 UNIVERSALREALITY=Universal Reality HD
@@ -156,7 +159,7 @@ TVAPARECIDA=TV Aparecida,tv aparecida hd
 BBC=BBC
 SICINTERNACIONAL=SIC Internacional
 TVBRASIL2=TV Brasil 2
-CNNINTERNATIONAL=CNN International
+CNNINTERNATIONAL=CNN International,CNN International HD
 BOAVONTADETV=Boa Vontade TV
 DWDEUTSCHPLUS=DW (Deutsch+)
 DOGTV=DOG TV
